@@ -1,0 +1,13 @@
+{
+  "name": "Panda Smash Token",
+  "website": "",
+  "description": "Panda Smash Token is a community-driven BEP20 token inspired by badminton culture and the Panda Smash brand.",
+  "explorer": "https://bscscan.com/token/0xfC65b770dd73a232503659EC64cca11a9902916B",
+  "type": "BEP20",
+  "symbol": "PST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfC65b770dd73a232503659EC64cca11a9902916B",
+  "links": [],
+  "tags": ["memes"]
+}
